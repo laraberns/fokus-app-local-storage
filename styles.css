@@ -515,7 +515,7 @@ h1, h2, h3, h4, h5, h6 {
 
     .app__form-footer {
         justify-content: center;
-        gap: 1rem;
+        gap: 0.7rem;
     }
 
     /* fim - dropdown */
