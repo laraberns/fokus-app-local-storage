@@ -513,6 +513,11 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 1.5rem;
     }
 
+    .app__form-footer {
+        justify-content: center;
+        gap: 1rem;
+    }
+
     /* fim - dropdown */
 }
 
